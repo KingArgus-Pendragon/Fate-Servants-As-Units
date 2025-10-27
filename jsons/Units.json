@@ -5,7 +5,9 @@
 		"movement": 3, 
 		"strength": 10,
 		"cost": 100,
-		"uniques": ["Can upgrade to [Servant Saber] <for units with [Saber]>","Can upgrade to [Servant Archer] <for units with [Archer]>","Can upgrade to [Servant Lancer] <for units with [Lancer]>"],
+		"uniques": ["Can upgrade to [Servant Saber] <for units with [Saber]>",
+			"Can upgrade to [Servant Archer] <for units with [Archer]>",
+			"Can upgrade to [Servant Lancer] <for units with [Lancer]>"],
 		"attackSound": "nonmetalhit",
 	},
 	{
